@@ -1,0 +1,2152 @@
+[
+  {
+    "pertanyaan": "Apa itu CSS?",
+    "jawaban": "CSS adalah singkatan dari Cascading Style Sheets, yaitu bahasa yang digunakan untuk mendesain tampilan halaman web.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "CSS itu maksudnya apa ya?",
+    "jawaban": "CSS adalah teknologi untuk mengatur warna, layout, font, dan tampilan visual sebuah halaman web.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Bisa jelasin tentang CSS?",
+    "jawaban": "CSS digunakan untuk mempercantik halaman HTML dengan mengatur gaya seperti warna, ukuran, dan posisi elemen.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Gimana cara pakai CSS dalam HTML?",
+    "jawaban": "CSS bisa digunakan dengan tiga cara: inline style, internal style di tag <style>, atau dengan file eksternal .css.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Saya baru belajar, CSS itu gimana sih?",
+    "jawaban": "CSS itu ibarat 'bajunya' halaman web, biar kelihatan rapi dan menarik dibanding HTML polos.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "CSS dipakai buat apa dalam website?",
+    "jawaban": "CSS dipakai untuk mengatur desain visual halaman web seperti warna, ukuran teks, dan posisi elemen.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang CSS nggak?",
+    "jawaban": "Contohnya, kamu bisa ubah warna teks menjadi merah dengan CSS: `p { color: red; }`",
+    "kode": "<style>p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau mulai belajar CSS, dari mana?",
+    "jawaban": "Mulailah dari memahami selector, property, dan value dalam CSS seperti mengatur warna atau font.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Contoh penggunaan CSS dalam halaman web dong!",
+    "jawaban": "CSS digunakan untuk mengatur layout, warna background, ukuran teks, dan banyak lagi.",
+    "kode": "<!DOCTYPE html>\n<html>\n<head>\n<style>\nbody { background-color: lightblue; }\nh1 { color: navy; }\n</style>\n</head>\n<body>\n<h1>Halo CSS!</h1>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "CSS itu penting nggak sih buat bikin website?",
+    "jawaban": "Penting banget! Tanpa CSS, halaman web akan terlihat membosankan dan sulit diatur tampilannya.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Apa itu cara kerja internal CSS?",
+    "jawaban": "Cara kerja internal css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Cara kerja internal css itu maksudnya apa ya?",
+    "jawaban": "Untuk cara kerja internal CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang cara kerja internal CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang cara kerja internal CSS.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai cara kerja internal CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan cara kerja internal CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, cara kerja internal CSS itu gimana sih?",
+    "jawaban": "Tenang, cara kerja internal CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "cara kerja internal CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang cara kerja internal CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti cara kerja internal CSS.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai cara kerja internal CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan cara kerja internal CSS berikut ini.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan cara kerja internal CSS dong!",
+    "jawaban": "Biasanya cara kerja internal CSS digunakan seperti ini.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Cara kerja internal css itu penting gak sih?",
+    "jawaban": "Ingat ya, cara kerja internal CSS sangat sering dipakai saat membuat website.",
+    "kode": "<style>\np { color: red; }\n</style>"
+  },
+  {
+    "pertanyaan": "Apa itu cara menggunakan eksternal CSS?",
+    "jawaban": "Cara menggunakan eksternal css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Cara menggunakan eksternal css itu maksudnya apa ya?",
+    "jawaban": "Untuk cara menggunakan eksternal CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang cara menggunakan eksternal CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang cara menggunakan eksternal CSS.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai cara menggunakan eksternal CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan cara menggunakan eksternal CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, cara menggunakan eksternal CSS itu gimana sih?",
+    "jawaban": "Tenang, cara menggunakan eksternal CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "cara menggunakan eksternal CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang cara menggunakan eksternal CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti cara menggunakan eksternal CSS.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai cara menggunakan eksternal CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan cara menggunakan eksternal CSS berikut ini.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan cara menggunakan eksternal CSS dong!",
+    "jawaban": "Biasanya cara menggunakan eksternal CSS digunakan seperti ini.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Cara menggunakan eksternal css itu penting gak sih?",
+    "jawaban": "Ingat ya, cara menggunakan eksternal CSS sangat sering dipakai saat membuat website.",
+    "kode": "<link rel=\"stylesheet\" href=\"style.css\">"
+  },
+  {
+    "pertanyaan": "Apa itu penggunaan id dalam CSS?",
+    "jawaban": "Penggunaan id dalam css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Penggunaan id dalam css itu maksudnya apa ya?",
+    "jawaban": "Untuk penggunaan id dalam CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang penggunaan id dalam CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang penggunaan id dalam CSS.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai penggunaan id dalam CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan penggunaan id dalam CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, penggunaan id dalam CSS itu gimana sih?",
+    "jawaban": "Tenang, penggunaan id dalam CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "penggunaan id dalam CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang penggunaan id dalam CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti penggunaan id dalam CSS.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai penggunaan id dalam CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan penggunaan id dalam CSS berikut ini.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan penggunaan id dalam CSS dong!",
+    "jawaban": "Biasanya penggunaan id dalam CSS digunakan seperti ini.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Penggunaan id dalam css itu penting gak sih?",
+    "jawaban": "Ingat ya, penggunaan id dalam CSS sangat sering dipakai saat membuat website.",
+    "kode": "<p id=\"judul\">Judul</p>\n<style>#judul { color: blue; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu penggunaan class dalam CSS?",
+    "jawaban": "Penggunaan class dalam css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Penggunaan class dalam css itu maksudnya apa ya?",
+    "jawaban": "Untuk penggunaan class dalam CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang penggunaan class dalam CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang penggunaan class dalam CSS.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai penggunaan class dalam CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan penggunaan class dalam CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, penggunaan class dalam CSS itu gimana sih?",
+    "jawaban": "Tenang, penggunaan class dalam CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "penggunaan class dalam CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang penggunaan class dalam CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti penggunaan class dalam CSS.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai penggunaan class dalam CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan penggunaan class dalam CSS berikut ini.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan penggunaan class dalam CSS dong!",
+    "jawaban": "Biasanya penggunaan class dalam CSS digunakan seperti ini.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Penggunaan class dalam css itu penting gak sih?",
+    "jawaban": "Ingat ya, penggunaan class dalam CSS sangat sering dipakai saat membuat website.",
+    "kode": "<p class=\"teks\">Halo</p>\n<style>.teks { font-size: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu combinator?",
+    "jawaban": "Apa itu combinator adalah salah satu konsep penting dalam CSS.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Apa itu combinator itu maksudnya apa ya?",
+    "jawaban": "Untuk apa itu combinator, biasanya digunakan dalam styling HTML.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang apa itu combinator?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang apa itu combinator.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai apa itu combinator dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan apa itu combinator, kamu bisa ikuti contoh berikut.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, apa itu combinator itu gimana sih?",
+    "jawaban": "Tenang, apa itu combinator itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "apa itu combinator dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang apa itu combinator nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti apa itu combinator.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai apa itu combinator, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan apa itu combinator berikut ini.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan apa itu combinator dong!",
+    "jawaban": "Biasanya apa itu combinator digunakan seperti ini.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Apa itu combinator itu penting gak sih?",
+    "jawaban": "Ingat ya, apa itu combinator sangat sering dipakai saat membuat website.",
+    "kode": "/* div > p { } */"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu child selector?",
+    "jawaban": "Apa itu child selector adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu child selector itu maksudnya apa ya?",
+    "jawaban": "Untuk apa itu child selector, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang apa itu child selector?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang apa itu child selector.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai apa itu child selector dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan apa itu child selector, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, apa itu child selector itu gimana sih?",
+    "jawaban": "Tenang, apa itu child selector itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "apa itu child selector dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang apa itu child selector nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti apa itu child selector.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai apa itu child selector, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan apa itu child selector berikut ini.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan apa itu child selector dong!",
+    "jawaban": "Biasanya apa itu child selector digunakan seperti ini.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu child selector itu penting gak sih?",
+    "jawaban": "Ingat ya, apa itu child selector sangat sering dipakai saat membuat website.",
+    "kode": "<style>div > p { color: green; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu sibling selector?",
+    "jawaban": "Apa itu sibling selector adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu sibling selector itu maksudnya apa ya?",
+    "jawaban": "Untuk apa itu sibling selector, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang apa itu sibling selector?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang apa itu sibling selector.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai apa itu sibling selector dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan apa itu sibling selector, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, apa itu sibling selector itu gimana sih?",
+    "jawaban": "Tenang, apa itu sibling selector itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "apa itu sibling selector dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang apa itu sibling selector nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti apa itu sibling selector.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai apa itu sibling selector, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan apa itu sibling selector berikut ini.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan apa itu sibling selector dong!",
+    "jawaban": "Biasanya apa itu sibling selector digunakan seperti ini.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu sibling selector itu penting gak sih?",
+    "jawaban": "Ingat ya, apa itu sibling selector sangat sering dipakai saat membuat website.",
+    "kode": "<style>h1 + p { color: red; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu selector atribut?",
+    "jawaban": "Selector atribut adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Selector atribut itu maksudnya apa ya?",
+    "jawaban": "Untuk selector atribut, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang selector atribut?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang selector atribut.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai selector atribut dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan selector atribut, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, selector atribut itu gimana sih?",
+    "jawaban": "Tenang, selector atribut itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "selector atribut dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang selector atribut nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti selector atribut.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai selector atribut, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan selector atribut berikut ini.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan selector atribut dong!",
+    "jawaban": "Biasanya selector atribut digunakan seperti ini.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Selector atribut itu penting gak sih?",
+    "jawaban": "Ingat ya, selector atribut sangat sering dipakai saat membuat website.",
+    "kode": "<style>input[type=\"text\"] { border: 1px solid black; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur warna dengan CSS?",
+    "jawaban": "Mengatur warna dengan css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur warna dengan css itu maksudnya apa ya?",
+    "jawaban": "Untuk mengatur warna dengan CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang mengatur warna dengan CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang mengatur warna dengan CSS.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur warna dengan CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan mengatur warna dengan CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, mengatur warna dengan CSS itu gimana sih?",
+    "jawaban": "Tenang, mengatur warna dengan CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur warna dengan CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang mengatur warna dengan CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti mengatur warna dengan CSS.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai mengatur warna dengan CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan mengatur warna dengan CSS berikut ini.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan mengatur warna dengan CSS dong!",
+    "jawaban": "Biasanya mengatur warna dengan CSS digunakan seperti ini.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur warna dengan css itu penting gak sih?",
+    "jawaban": "Ingat ya, mengatur warna dengan CSS sangat sering dipakai saat membuat website.",
+    "kode": "<style>body { background-color: lightblue; color: black; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur font dengan CSS?",
+    "jawaban": "Mengatur font dengan css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur font dengan css itu maksudnya apa ya?",
+    "jawaban": "Untuk mengatur font dengan CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang mengatur font dengan CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang mengatur font dengan CSS.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur font dengan CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan mengatur font dengan CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, mengatur font dengan CSS itu gimana sih?",
+    "jawaban": "Tenang, mengatur font dengan CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur font dengan CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang mengatur font dengan CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti mengatur font dengan CSS.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai mengatur font dengan CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan mengatur font dengan CSS berikut ini.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan mengatur font dengan CSS dong!",
+    "jawaban": "Biasanya mengatur font dengan CSS digunakan seperti ini.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur font dengan css itu penting gak sih?",
+    "jawaban": "Ingat ya, mengatur font dengan CSS sangat sering dipakai saat membuat website.",
+    "kode": "<style>p { font-family: Arial; font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur jarak (spacing) di CSS?",
+    "jawaban": "Mengatur jarak (spacing) di css adalah salah satu konsep penting dalam CSS.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur jarak (spacing) di css itu maksudnya apa ya?",
+    "jawaban": "Untuk mengatur jarak (spacing) di CSS, biasanya digunakan dalam styling HTML.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang mengatur jarak (spacing) di CSS?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang mengatur jarak (spacing) di CSS.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur jarak (spacing) di CSS dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan mengatur jarak (spacing) di CSS, kamu bisa ikuti contoh berikut.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, mengatur jarak (spacing) di CSS itu gimana sih?",
+    "jawaban": "Tenang, mengatur jarak (spacing) di CSS itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur jarak (spacing) di CSS dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang mengatur jarak (spacing) di CSS nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti mengatur jarak (spacing) di CSS.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai mengatur jarak (spacing) di CSS, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan mengatur jarak (spacing) di CSS berikut ini.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan mengatur jarak (spacing) di CSS dong!",
+    "jawaban": "Biasanya mengatur jarak (spacing) di CSS digunakan seperti ini.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur jarak (spacing) di css itu penting gak sih?",
+    "jawaban": "Ingat ya, mengatur jarak (spacing) di CSS sangat sering dipakai saat membuat website.",
+    "kode": "<style>div { margin: 10px; padding: 20px; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu pakai font dari Google Font?",
+    "jawaban": "Pakai font dari google font adalah salah satu konsep penting dalam CSS.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Pakai font dari google font itu maksudnya apa ya?",
+    "jawaban": "Untuk pakai font dari Google Font, biasanya digunakan dalam styling HTML.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang pakai font dari Google Font?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang pakai font dari Google Font.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai pakai font dari Google Font dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan pakai font dari Google Font, kamu bisa ikuti contoh berikut.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar, pakai font dari Google Font itu gimana sih?",
+    "jawaban": "Tenang, pakai font dari Google Font itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "pakai font dari Google Font dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang pakai font dari Google Font nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti pakai font dari Google Font.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau pakai pakai font dari Google Font, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan pakai font dari Google Font berikut ini.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan pakai font dari Google Font dong!",
+    "jawaban": "Biasanya pakai font dari Google Font digunakan seperti ini.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Pakai font dari google font itu penting gak sih?",
+    "jawaban": "Ingat ya, pakai font dari Google Font sangat sering dipakai saat membuat website.",
+    "kode": "<link href=\"https://fonts.googleapis.com/css2?family=Roboto\" rel=\"stylesheet\">\n<style>body { font-family: 'Roboto', sans-serif; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu arti istilah CSS umum?",
+    "jawaban": "Arti istilah css umum adalah salah satu konsep penting dalam CSS.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Arti istilah css umum itu maksudnya apa ya?",
+    "jawaban": "Untuk arti istilah CSS umum, biasanya digunakan dalam styling HTML.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Bisa dijelasin tentang arti istilah CSS umum?",
+    "jawaban": "Berikut ini penjelasan dan contohnya tentang arti istilah CSS umum.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Gimana cara pakai arti istilah CSS umum dalam HTML?",
+    "jawaban": "Kalau kamu ingin menggunakan arti istilah CSS umum, kamu bisa ikuti contoh berikut.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Saya baru belajar, arti istilah CSS umum itu gimana sih?",
+    "jawaban": "Tenang, arti istilah CSS umum itu dasar banget kok. Nih penjelasan gampangnya.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "arti istilah CSS umum dipakai buat apa dalam CSS?",
+    "jawaban": "Ini salah satu hal yang sering digunakan dalam CSS sehari-hari.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Ada contoh simpel tentang arti istilah CSS umum nggak?",
+    "jawaban": "Kalau kamu masih baru, ini cara mudah ngerti arti istilah CSS umum.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Kalau mau pakai arti istilah CSS umum, mulai dari mana?",
+    "jawaban": "Simak contoh sederhana penggunaan arti istilah CSS umum berikut ini.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Contoh penggunaan arti istilah CSS umum dong!",
+    "jawaban": "Biasanya arti istilah CSS umum digunakan seperti ini.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Arti istilah css umum itu penting gak sih?",
+    "jawaban": "Ingat ya, arti istilah CSS umum sangat sering dipakai saat membuat website.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Apa itu normal flow dalam CSS?",
+    "jawaban": "Normal flow dalam css adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Normal flow dalam css itu dipakai buat apa sih?",
+    "jawaban": "Untuk normal flow dalam CSS, kamu bisa lihat contoh kode berikut.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Gimana cara pakai normal flow dalam CSS di CSS?",
+    "jawaban": "Normal flow dalam css digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Contoh kode untuk normal flow dalam CSS gimana ya?",
+    "jawaban": "Ini contoh pemakaian normal flow dalam CSS yang umum digunakan di banyak website.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Normal flow dalam css itu susah nggak?",
+    "jawaban": "Jangan khawatir, normal flow dalam CSS itu gampang dipahami kok!",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Saya bingung, normal flow dalam CSS itu maksudnya apa?",
+    "jawaban": "Normal flow dalam css membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai normal flow dalam CSS, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan normal flow dalam CSS.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "normal flow dalam CSS sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti normal flow dalam CSS, coba perhatikan contoh ini.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti normal flow dalam CSS gimana?",
+    "jawaban": "normal flow dalam CSS bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan normal flow dalam CSS yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja normal flow dalam CSS.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Apa itu penggunaan properti display?",
+    "jawaban": "Penggunaan properti display adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Penggunaan properti display itu dipakai buat apa sih?",
+    "jawaban": "Untuk penggunaan properti display, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai penggunaan properti display di CSS?",
+    "jawaban": "Penggunaan properti display digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk penggunaan properti display gimana ya?",
+    "jawaban": "Ini contoh pemakaian penggunaan properti display yang umum digunakan di banyak website.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Penggunaan properti display itu susah nggak?",
+    "jawaban": "Jangan khawatir, penggunaan properti display itu gampang dipahami kok!",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, penggunaan properti display itu maksudnya apa?",
+    "jawaban": "Penggunaan properti display membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai penggunaan properti display, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan penggunaan properti display.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "penggunaan properti display sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti penggunaan properti display, coba perhatikan contoh ini.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti penggunaan properti display gimana?",
+    "jawaban": "penggunaan properti display bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan penggunaan properti display yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja penggunaan properti display.",
+    "kode": "<style>div { display: inline-block; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu flexbox?",
+    "jawaban": "Apa itu flexbox adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu flexbox itu dipakai buat apa sih?",
+    "jawaban": "Untuk apa itu flexbox, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai apa itu flexbox di CSS?",
+    "jawaban": "Apa itu flexbox digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk apa itu flexbox gimana ya?",
+    "jawaban": "Ini contoh pemakaian apa itu flexbox yang umum digunakan di banyak website.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu flexbox itu susah nggak?",
+    "jawaban": "Jangan khawatir, apa itu flexbox itu gampang dipahami kok!",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, apa itu flexbox itu maksudnya apa?",
+    "jawaban": "Apa itu flexbox membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai apa itu flexbox, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan apa itu flexbox.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "apa itu flexbox sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti apa itu flexbox, coba perhatikan contoh ini.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti apa itu flexbox gimana?",
+    "jawaban": "apa itu flexbox bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan apa itu flexbox yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja apa itu flexbox.",
+    "kode": "<style>.container { display: flex; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur urutan item flex dengan order?",
+    "jawaban": "Mengatur urutan item flex dengan order adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur urutan item flex dengan order itu dipakai buat apa sih?",
+    "jawaban": "Untuk mengatur urutan item flex dengan order, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur urutan item flex dengan order di CSS?",
+    "jawaban": "Mengatur urutan item flex dengan order digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk mengatur urutan item flex dengan order gimana ya?",
+    "jawaban": "Ini contoh pemakaian mengatur urutan item flex dengan order yang umum digunakan di banyak website.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur urutan item flex dengan order itu susah nggak?",
+    "jawaban": "Jangan khawatir, mengatur urutan item flex dengan order itu gampang dipahami kok!",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, mengatur urutan item flex dengan order itu maksudnya apa?",
+    "jawaban": "Mengatur urutan item flex dengan order membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai mengatur urutan item flex dengan order, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan mengatur urutan item flex dengan order.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur urutan item flex dengan order sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti mengatur urutan item flex dengan order, coba perhatikan contoh ini.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti mengatur urutan item flex dengan order gimana?",
+    "jawaban": "mengatur urutan item flex dengan order bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan mengatur urutan item flex dengan order yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja mengatur urutan item flex dengan order.",
+    "kode": "<style>.item { order: 2; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu membuat item flex bisa membesar dengan flex-grow?",
+    "jawaban": "Membuat item flex bisa membesar dengan flex-grow adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat item flex bisa membesar dengan flex-grow itu dipakai buat apa sih?",
+    "jawaban": "Untuk membuat item flex bisa membesar dengan flex-grow, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai membuat item flex bisa membesar dengan flex-grow di CSS?",
+    "jawaban": "Membuat item flex bisa membesar dengan flex-grow digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk membuat item flex bisa membesar dengan flex-grow gimana ya?",
+    "jawaban": "Ini contoh pemakaian membuat item flex bisa membesar dengan flex-grow yang umum digunakan di banyak website.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat item flex bisa membesar dengan flex-grow itu susah nggak?",
+    "jawaban": "Jangan khawatir, membuat item flex bisa membesar dengan flex-grow itu gampang dipahami kok!",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, membuat item flex bisa membesar dengan flex-grow itu maksudnya apa?",
+    "jawaban": "Membuat item flex bisa membesar dengan flex-grow membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai membuat item flex bisa membesar dengan flex-grow, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan membuat item flex bisa membesar dengan flex-grow.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "membuat item flex bisa membesar dengan flex-grow sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti membuat item flex bisa membesar dengan flex-grow, coba perhatikan contoh ini.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti membuat item flex bisa membesar dengan flex-grow gimana?",
+    "jawaban": "membuat item flex bisa membesar dengan flex-grow bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan membuat item flex bisa membesar dengan flex-grow yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja membuat item flex bisa membesar dengan flex-grow.",
+    "kode": "<style>.item { flex-grow: 1; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur posisi item dengan justify-content?",
+    "jawaban": "Mengatur posisi item dengan justify-content adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur posisi item dengan justify-content itu dipakai buat apa sih?",
+    "jawaban": "Untuk mengatur posisi item dengan justify-content, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur posisi item dengan justify-content di CSS?",
+    "jawaban": "Mengatur posisi item dengan justify-content digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk mengatur posisi item dengan justify-content gimana ya?",
+    "jawaban": "Ini contoh pemakaian mengatur posisi item dengan justify-content yang umum digunakan di banyak website.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur posisi item dengan justify-content itu susah nggak?",
+    "jawaban": "Jangan khawatir, mengatur posisi item dengan justify-content itu gampang dipahami kok!",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, mengatur posisi item dengan justify-content itu maksudnya apa?",
+    "jawaban": "Mengatur posisi item dengan justify-content membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai mengatur posisi item dengan justify-content, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan mengatur posisi item dengan justify-content.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur posisi item dengan justify-content sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti mengatur posisi item dengan justify-content, coba perhatikan contoh ini.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti mengatur posisi item dengan justify-content gimana?",
+    "jawaban": "mengatur posisi item dengan justify-content bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan mengatur posisi item dengan justify-content yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja mengatur posisi item dengan justify-content.",
+    "kode": "<style>.container { display: flex; justify-content: center; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu align item secara vertikal dengan align-items?",
+    "jawaban": "Align item secara vertikal dengan align-items adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Align item secara vertikal dengan align-items itu dipakai buat apa sih?",
+    "jawaban": "Untuk align item secara vertikal dengan align-items, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai align item secara vertikal dengan align-items di CSS?",
+    "jawaban": "Align item secara vertikal dengan align-items digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk align item secara vertikal dengan align-items gimana ya?",
+    "jawaban": "Ini contoh pemakaian align item secara vertikal dengan align-items yang umum digunakan di banyak website.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Align item secara vertikal dengan align-items itu susah nggak?",
+    "jawaban": "Jangan khawatir, align item secara vertikal dengan align-items itu gampang dipahami kok!",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, align item secara vertikal dengan align-items itu maksudnya apa?",
+    "jawaban": "Align item secara vertikal dengan align-items membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai align item secara vertikal dengan align-items, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan align item secara vertikal dengan align-items.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "align item secara vertikal dengan align-items sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti align item secara vertikal dengan align-items, coba perhatikan contoh ini.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti align item secara vertikal dengan align-items gimana?",
+    "jawaban": "align item secara vertikal dengan align-items bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan align item secara vertikal dengan align-items yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja align item secara vertikal dengan align-items.",
+    "kode": "<style>.container { display: flex; align-items: center; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu membungkus flex item dengan flex-wrap?",
+    "jawaban": "Membungkus flex item dengan flex-wrap adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Membungkus flex item dengan flex-wrap itu dipakai buat apa sih?",
+    "jawaban": "Untuk membungkus flex item dengan flex-wrap, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai membungkus flex item dengan flex-wrap di CSS?",
+    "jawaban": "Membungkus flex item dengan flex-wrap digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk membungkus flex item dengan flex-wrap gimana ya?",
+    "jawaban": "Ini contoh pemakaian membungkus flex item dengan flex-wrap yang umum digunakan di banyak website.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Membungkus flex item dengan flex-wrap itu susah nggak?",
+    "jawaban": "Jangan khawatir, membungkus flex item dengan flex-wrap itu gampang dipahami kok!",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, membungkus flex item dengan flex-wrap itu maksudnya apa?",
+    "jawaban": "Membungkus flex item dengan flex-wrap membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai membungkus flex item dengan flex-wrap, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan membungkus flex item dengan flex-wrap.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "membungkus flex item dengan flex-wrap sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti membungkus flex item dengan flex-wrap, coba perhatikan contoh ini.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti membungkus flex item dengan flex-wrap gimana?",
+    "jawaban": "membungkus flex item dengan flex-wrap bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan membungkus flex item dengan flex-wrap yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja membungkus flex item dengan flex-wrap.",
+    "kode": "<style>.container { display: flex; flex-wrap: wrap; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur arah baris flex dengan flex-direction?",
+    "jawaban": "Mengatur arah baris flex dengan flex-direction adalah fitur CSS yang sering digunakan dalam layout modern.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur arah baris flex dengan flex-direction itu dipakai buat apa sih?",
+    "jawaban": "Untuk mengatur arah baris flex dengan flex-direction, kamu bisa lihat contoh kode berikut.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur arah baris flex dengan flex-direction di CSS?",
+    "jawaban": "Mengatur arah baris flex dengan flex-direction digunakan untuk mengatur elemen agar lebih responsif dan rapi.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode untuk mengatur arah baris flex dengan flex-direction gimana ya?",
+    "jawaban": "Ini contoh pemakaian mengatur arah baris flex dengan flex-direction yang umum digunakan di banyak website.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur arah baris flex dengan flex-direction itu susah nggak?",
+    "jawaban": "Jangan khawatir, mengatur arah baris flex dengan flex-direction itu gampang dipahami kok!",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, mengatur arah baris flex dengan flex-direction itu maksudnya apa?",
+    "jawaban": "Mengatur arah baris flex dengan flex-direction membantu membuat layout jadi fleksibel dan dinamis.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau styling pakai mengatur arah baris flex dengan flex-direction, mulai dari mana?",
+    "jawaban": "Nih contoh dasar penggunaan mengatur arah baris flex dengan flex-direction.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur arah baris flex dengan flex-direction sering dipakai nggak sih di web modern?",
+    "jawaban": "Kalau kamu pengin ngerti mengatur arah baris flex dengan flex-direction, coba perhatikan contoh ini.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang ngerti mengatur arah baris flex dengan flex-direction gimana?",
+    "jawaban": "mengatur arah baris flex dengan flex-direction bisa bantu kamu bikin tampilan web lebih rapi dan teratur.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan mengatur arah baris flex dengan flex-direction yang simpel?",
+    "jawaban": "Lihat kode berikut untuk tahu cara kerja mengatur arah baris flex dengan flex-direction.",
+    "kode": "<style>.container { display: flex; flex-direction: column; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu CSS Grid?",
+    "jawaban": "Apa itu css grid sangat berguna dalam layout modern.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai apa itu CSS Grid dalam CSS?",
+    "jawaban": "Untuk menggunakan apa itu CSS Grid, perhatikan contoh berikut ini.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu css grid biasanya dipakai buat apa?",
+    "jawaban": "Apa itu css grid bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan apa itu CSS Grid?",
+    "jawaban": "Ini salah satu contoh umum pemakaian apa itu CSS Grid.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, apa itu CSS Grid itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba apa itu CSS Grid.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode apa itu CSS Grid yang gampang dong.",
+    "jawaban": "Apa itu css grid termasuk bagian dari responsive design.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu css grid itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai apa itu CSS Grid dalam proyek kamu.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai apa itu CSS Grid?",
+    "jawaban": "Yuk pahami konsep dasar apa itu CSS Grid lewat contoh ini.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan apa itu CSS Grid?",
+    "jawaban": "apa itu CSS Grid bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "apa itu CSS Grid sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh apa itu CSS Grid biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>.container { display: grid; grid-template-columns: 1fr 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu cara mengatur kolom di CSS Grid?",
+    "jawaban": "Cara mengatur kolom di css grid sangat berguna dalam layout modern.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai cara mengatur kolom di CSS Grid dalam CSS?",
+    "jawaban": "Untuk menggunakan cara mengatur kolom di CSS Grid, perhatikan contoh berikut ini.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Cara mengatur kolom di css grid biasanya dipakai buat apa?",
+    "jawaban": "Cara mengatur kolom di css grid bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan cara mengatur kolom di CSS Grid?",
+    "jawaban": "Ini salah satu contoh umum pemakaian cara mengatur kolom di CSS Grid.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, cara mengatur kolom di CSS Grid itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba cara mengatur kolom di CSS Grid.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode cara mengatur kolom di CSS Grid yang gampang dong.",
+    "jawaban": "Cara mengatur kolom di css grid termasuk bagian dari responsive design.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Cara mengatur kolom di css grid itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai cara mengatur kolom di CSS Grid dalam proyek kamu.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai cara mengatur kolom di CSS Grid?",
+    "jawaban": "Yuk pahami konsep dasar cara mengatur kolom di CSS Grid lewat contoh ini.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan cara mengatur kolom di CSS Grid?",
+    "jawaban": "cara mengatur kolom di CSS Grid bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "cara mengatur kolom di CSS Grid sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh cara mengatur kolom di CSS Grid biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>.container { grid-template-columns: 200px 1fr; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur baris di CSS Grid?",
+    "jawaban": "Mengatur baris di css grid sangat berguna dalam layout modern.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur baris di CSS Grid dalam CSS?",
+    "jawaban": "Untuk menggunakan mengatur baris di CSS Grid, perhatikan contoh berikut ini.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur baris di css grid biasanya dipakai buat apa?",
+    "jawaban": "Mengatur baris di css grid bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan mengatur baris di CSS Grid?",
+    "jawaban": "Ini salah satu contoh umum pemakaian mengatur baris di CSS Grid.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, mengatur baris di CSS Grid itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba mengatur baris di CSS Grid.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode mengatur baris di CSS Grid yang gampang dong.",
+    "jawaban": "Mengatur baris di css grid termasuk bagian dari responsive design.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur baris di css grid itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai mengatur baris di CSS Grid dalam proyek kamu.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai mengatur baris di CSS Grid?",
+    "jawaban": "Yuk pahami konsep dasar mengatur baris di CSS Grid lewat contoh ini.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan mengatur baris di CSS Grid?",
+    "jawaban": "mengatur baris di CSS Grid bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur baris di CSS Grid sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh mengatur baris di CSS Grid biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>.container { grid-template-rows: 100px 200px; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur jarak antar grid?",
+    "jawaban": "Mengatur jarak antar grid sangat berguna dalam layout modern.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai mengatur jarak antar grid dalam CSS?",
+    "jawaban": "Untuk menggunakan mengatur jarak antar grid, perhatikan contoh berikut ini.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur jarak antar grid biasanya dipakai buat apa?",
+    "jawaban": "Mengatur jarak antar grid bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan mengatur jarak antar grid?",
+    "jawaban": "Ini salah satu contoh umum pemakaian mengatur jarak antar grid.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, mengatur jarak antar grid itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba mengatur jarak antar grid.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode mengatur jarak antar grid yang gampang dong.",
+    "jawaban": "Mengatur jarak antar grid termasuk bagian dari responsive design.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur jarak antar grid itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai mengatur jarak antar grid dalam proyek kamu.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai mengatur jarak antar grid?",
+    "jawaban": "Yuk pahami konsep dasar mengatur jarak antar grid lewat contoh ini.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan mengatur jarak antar grid?",
+    "jawaban": "mengatur jarak antar grid bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "mengatur jarak antar grid sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh mengatur jarak antar grid biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>.container { gap: 10px; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu menggabungkan kolom di CSS Grid?",
+    "jawaban": "Menggabungkan kolom di css grid sangat berguna dalam layout modern.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai menggabungkan kolom di CSS Grid dalam CSS?",
+    "jawaban": "Untuk menggunakan menggabungkan kolom di CSS Grid, perhatikan contoh berikut ini.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Menggabungkan kolom di css grid biasanya dipakai buat apa?",
+    "jawaban": "Menggabungkan kolom di css grid bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan menggabungkan kolom di CSS Grid?",
+    "jawaban": "Ini salah satu contoh umum pemakaian menggabungkan kolom di CSS Grid.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, menggabungkan kolom di CSS Grid itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba menggabungkan kolom di CSS Grid.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode menggabungkan kolom di CSS Grid yang gampang dong.",
+    "jawaban": "Menggabungkan kolom di css grid termasuk bagian dari responsive design.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Menggabungkan kolom di css grid itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai menggabungkan kolom di CSS Grid dalam proyek kamu.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai menggabungkan kolom di CSS Grid?",
+    "jawaban": "Yuk pahami konsep dasar menggabungkan kolom di CSS Grid lewat contoh ini.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan menggabungkan kolom di CSS Grid?",
+    "jawaban": "menggabungkan kolom di CSS Grid bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "menggabungkan kolom di CSS Grid sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh menggabungkan kolom di CSS Grid biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>.item { grid-column: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu menggabungkan baris di CSS Grid?",
+    "jawaban": "Menggabungkan baris di css grid sangat berguna dalam layout modern.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai menggabungkan baris di CSS Grid dalam CSS?",
+    "jawaban": "Untuk menggunakan menggabungkan baris di CSS Grid, perhatikan contoh berikut ini.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Menggabungkan baris di css grid biasanya dipakai buat apa?",
+    "jawaban": "Menggabungkan baris di css grid bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan menggabungkan baris di CSS Grid?",
+    "jawaban": "Ini salah satu contoh umum pemakaian menggabungkan baris di CSS Grid.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, menggabungkan baris di CSS Grid itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba menggabungkan baris di CSS Grid.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode menggabungkan baris di CSS Grid yang gampang dong.",
+    "jawaban": "Menggabungkan baris di css grid termasuk bagian dari responsive design.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Menggabungkan baris di css grid itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai menggabungkan baris di CSS Grid dalam proyek kamu.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai menggabungkan baris di CSS Grid?",
+    "jawaban": "Yuk pahami konsep dasar menggabungkan baris di CSS Grid lewat contoh ini.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan menggabungkan baris di CSS Grid?",
+    "jawaban": "menggabungkan baris di CSS Grid bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "menggabungkan baris di CSS Grid sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh menggabungkan baris di CSS Grid biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>.item { grid-row: 1 / 3; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu cara membuat layout responsif?",
+    "jawaban": "Cara membuat layout responsif sangat berguna dalam layout modern.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai cara membuat layout responsif dalam CSS?",
+    "jawaban": "Untuk menggunakan cara membuat layout responsif, perhatikan contoh berikut ini.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Cara membuat layout responsif biasanya dipakai buat apa?",
+    "jawaban": "Cara membuat layout responsif bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan cara membuat layout responsif?",
+    "jawaban": "Ini salah satu contoh umum pemakaian cara membuat layout responsif.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, cara membuat layout responsif itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba cara membuat layout responsif.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode cara membuat layout responsif yang gampang dong.",
+    "jawaban": "Cara membuat layout responsif termasuk bagian dari responsive design.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Cara membuat layout responsif itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai cara membuat layout responsif dalam proyek kamu.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai cara membuat layout responsif?",
+    "jawaban": "Yuk pahami konsep dasar cara membuat layout responsif lewat contoh ini.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan cara membuat layout responsif?",
+    "jawaban": "cara membuat layout responsif bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "cara membuat layout responsif sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh cara membuat layout responsif biar tampilannya rapi di semua perangkat.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>@media (max-width: 600px) { body { background: lightgray; } }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu media query?",
+    "jawaban": "Apa itu media query sangat berguna dalam layout modern.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai apa itu media query dalam CSS?",
+    "jawaban": "Untuk menggunakan apa itu media query, perhatikan contoh berikut ini.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu media query biasanya dipakai buat apa?",
+    "jawaban": "Apa itu media query bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan apa itu media query?",
+    "jawaban": "Ini salah satu contoh umum pemakaian apa itu media query.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, apa itu media query itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba apa itu media query.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode apa itu media query yang gampang dong.",
+    "jawaban": "Apa itu media query termasuk bagian dari responsive design.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu media query itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai apa itu media query dalam proyek kamu.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai apa itu media query?",
+    "jawaban": "Yuk pahami konsep dasar apa itu media query lewat contoh ini.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan apa itu media query?",
+    "jawaban": "apa itu media query bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "apa itu media query sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh apa itu media query biar tampilannya rapi di semua perangkat.",
+    "kode": "<style>@media (max-width: 768px) { .container { flex-direction: column; } }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu viewport itu apa?",
+    "jawaban": "Viewport itu apa sangat berguna dalam layout modern.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai viewport itu apa dalam CSS?",
+    "jawaban": "Untuk menggunakan viewport itu apa, perhatikan contoh berikut ini.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Viewport itu apa biasanya dipakai buat apa?",
+    "jawaban": "Viewport itu apa bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan viewport itu apa?",
+    "jawaban": "Ini salah satu contoh umum pemakaian viewport itu apa.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Saya bingung, viewport itu apa itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba viewport itu apa.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Contoh kode viewport itu apa yang gampang dong.",
+    "jawaban": "Viewport itu apa termasuk bagian dari responsive design.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Viewport itu apa itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai viewport itu apa dalam proyek kamu.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai viewport itu apa?",
+    "jawaban": "Yuk pahami konsep dasar viewport itu apa lewat contoh ini.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan viewport itu apa?",
+    "jawaban": "viewport itu apa bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "viewport itu apa sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh viewport itu apa biar tampilannya rapi di semua perangkat.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">"
+  },
+  {
+    "pertanyaan": "Apa itu cara membuat website mobile-friendly?",
+    "jawaban": "Cara membuat website mobile-friendly sangat berguna dalam layout modern.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara pakai cara membuat website mobile-friendly dalam CSS?",
+    "jawaban": "Untuk menggunakan cara membuat website mobile-friendly, perhatikan contoh berikut ini.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Cara membuat website mobile-friendly biasanya dipakai buat apa?",
+    "jawaban": "Cara membuat website mobile-friendly bisa bikin tampilan web jadi lebih fleksibel.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Bisa kasih contoh penggunaan cara membuat website mobile-friendly?",
+    "jawaban": "Ini salah satu contoh umum pemakaian cara membuat website mobile-friendly.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Saya bingung, cara membuat website mobile-friendly itu gimana maksudnya?",
+    "jawaban": "Kalau kamu masih baru, jangan takut coba cara membuat website mobile-friendly.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh kode cara membuat website mobile-friendly yang gampang dong.",
+    "jawaban": "Cara membuat website mobile-friendly termasuk bagian dari responsive design.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Cara membuat website mobile-friendly itu wajib dipelajari nggak?",
+    "jawaban": "Nih tips mudahnya pakai cara membuat website mobile-friendly dalam proyek kamu.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak tips praktis buat pakai cara membuat website mobile-friendly?",
+    "jawaban": "Yuk pahami konsep dasar cara membuat website mobile-friendly lewat contoh ini.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara bikin tampilan responsif dengan cara membuat website mobile-friendly?",
+    "jawaban": "cara membuat website mobile-friendly bikin web kamu lebih enak dilihat di berbagai ukuran layar.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "cara membuat website mobile-friendly sering dipakai di website modern nggak?",
+    "jawaban": "Web modern butuh cara membuat website mobile-friendly biar tampilannya rapi di semua perangkat.",
+    "kode": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>body { font-size: 16px; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu transition dalam CSS?",
+    "jawaban": "Apa itu transition digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai apa itu transition?",
+    "jawaban": "Untuk pakai apa itu transition, kamu bisa lihat contoh ini.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu transition itu sering dipakai buat apa?",
+    "jawaban": "Apa itu transition bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan apa itu transition dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan apa itu transition.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal apa itu transition, bisa dijelaskan?",
+    "jawaban": "Apa itu transition sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai apa itu transition?",
+    "jawaban": "Kalau kamu mau efek halus, apa itu transition solusinya.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu transition itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai apa itu transition.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai apa itu transition bisa gak?",
+    "jawaban": "apa itu transition bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai apa itu transition?",
+    "jawaban": "Yuk belajar cara gampang bikin apa itu transition.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu transition itu cocok untuk efek hover nggak?",
+    "jawaban": "Apa itu transition bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>button { transition: background-color 0.3s ease; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu cara menggunakan transform di CSS dalam CSS?",
+    "jawaban": "Cara menggunakan transform di css digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai cara menggunakan transform di CSS?",
+    "jawaban": "Untuk pakai cara menggunakan transform di CSS, kamu bisa lihat contoh ini.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Cara menggunakan transform di css itu sering dipakai buat apa?",
+    "jawaban": "Cara menggunakan transform di css bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan cara menggunakan transform di CSS dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan cara menggunakan transform di CSS.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal cara menggunakan transform di CSS, bisa dijelaskan?",
+    "jawaban": "Cara menggunakan transform di css sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai cara menggunakan transform di CSS?",
+    "jawaban": "Kalau kamu mau efek halus, cara menggunakan transform di CSS solusinya.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Cara menggunakan transform di css itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai cara menggunakan transform di CSS.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai cara menggunakan transform di CSS bisa gak?",
+    "jawaban": "cara menggunakan transform di CSS bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai cara menggunakan transform di CSS?",
+    "jawaban": "Yuk belajar cara gampang bikin cara menggunakan transform di CSS.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Cara menggunakan transform di css itu cocok untuk efek hover nggak?",
+    "jawaban": "Cara menggunakan transform di css bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>.kotak { transform: rotate(45deg); }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu membuat animasi dengan keyframes dalam CSS?",
+    "jawaban": "Membuat animasi dengan keyframes digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai membuat animasi dengan keyframes?",
+    "jawaban": "Untuk pakai membuat animasi dengan keyframes, kamu bisa lihat contoh ini.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat animasi dengan keyframes itu sering dipakai buat apa?",
+    "jawaban": "Membuat animasi dengan keyframes bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan membuat animasi dengan keyframes dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan membuat animasi dengan keyframes.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal membuat animasi dengan keyframes, bisa dijelaskan?",
+    "jawaban": "Membuat animasi dengan keyframes sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai membuat animasi dengan keyframes?",
+    "jawaban": "Kalau kamu mau efek halus, membuat animasi dengan keyframes solusinya.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat animasi dengan keyframes itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai membuat animasi dengan keyframes.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai membuat animasi dengan keyframes bisa gak?",
+    "jawaban": "membuat animasi dengan keyframes bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai membuat animasi dengan keyframes?",
+    "jawaban": "Yuk belajar cara gampang bikin membuat animasi dengan keyframes.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat animasi dengan keyframes itu cocok untuk efek hover nggak?",
+    "jawaban": "Membuat animasi dengan keyframes bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>@keyframes geser { from {left: 0;} to {left: 100px;} }\n.kotak { animation: geser 2s; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengubah ukuran elemen dengan scale dalam CSS?",
+    "jawaban": "Mengubah ukuran elemen dengan scale digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai mengubah ukuran elemen dengan scale?",
+    "jawaban": "Untuk pakai mengubah ukuran elemen dengan scale, kamu bisa lihat contoh ini.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Mengubah ukuran elemen dengan scale itu sering dipakai buat apa?",
+    "jawaban": "Mengubah ukuran elemen dengan scale bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan mengubah ukuran elemen dengan scale dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan mengubah ukuran elemen dengan scale.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal mengubah ukuran elemen dengan scale, bisa dijelaskan?",
+    "jawaban": "Mengubah ukuran elemen dengan scale sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai mengubah ukuran elemen dengan scale?",
+    "jawaban": "Kalau kamu mau efek halus, mengubah ukuran elemen dengan scale solusinya.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Mengubah ukuran elemen dengan scale itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai mengubah ukuran elemen dengan scale.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai mengubah ukuran elemen dengan scale bisa gak?",
+    "jawaban": "mengubah ukuran elemen dengan scale bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai mengubah ukuran elemen dengan scale?",
+    "jawaban": "Yuk belajar cara gampang bikin mengubah ukuran elemen dengan scale.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Mengubah ukuran elemen dengan scale itu cocok untuk efek hover nggak?",
+    "jawaban": "Mengubah ukuran elemen dengan scale bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>.gambar { transform: scale(1.5); }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu memutar elemen dengan rotate dalam CSS?",
+    "jawaban": "Memutar elemen dengan rotate digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai memutar elemen dengan rotate?",
+    "jawaban": "Untuk pakai memutar elemen dengan rotate, kamu bisa lihat contoh ini.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Memutar elemen dengan rotate itu sering dipakai buat apa?",
+    "jawaban": "Memutar elemen dengan rotate bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan memutar elemen dengan rotate dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan memutar elemen dengan rotate.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal memutar elemen dengan rotate, bisa dijelaskan?",
+    "jawaban": "Memutar elemen dengan rotate sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai memutar elemen dengan rotate?",
+    "jawaban": "Kalau kamu mau efek halus, memutar elemen dengan rotate solusinya.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Memutar elemen dengan rotate itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai memutar elemen dengan rotate.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai memutar elemen dengan rotate bisa gak?",
+    "jawaban": "memutar elemen dengan rotate bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai memutar elemen dengan rotate?",
+    "jawaban": "Yuk belajar cara gampang bikin memutar elemen dengan rotate.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Memutar elemen dengan rotate itu cocok untuk efek hover nggak?",
+    "jawaban": "Memutar elemen dengan rotate bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>.kotak { transform: rotate(90deg); }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu memindahkan elemen dengan translate dalam CSS?",
+    "jawaban": "Memindahkan elemen dengan translate digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai memindahkan elemen dengan translate?",
+    "jawaban": "Untuk pakai memindahkan elemen dengan translate, kamu bisa lihat contoh ini.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Memindahkan elemen dengan translate itu sering dipakai buat apa?",
+    "jawaban": "Memindahkan elemen dengan translate bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan memindahkan elemen dengan translate dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan memindahkan elemen dengan translate.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal memindahkan elemen dengan translate, bisa dijelaskan?",
+    "jawaban": "Memindahkan elemen dengan translate sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai memindahkan elemen dengan translate?",
+    "jawaban": "Kalau kamu mau efek halus, memindahkan elemen dengan translate solusinya.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Memindahkan elemen dengan translate itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai memindahkan elemen dengan translate.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai memindahkan elemen dengan translate bisa gak?",
+    "jawaban": "memindahkan elemen dengan translate bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai memindahkan elemen dengan translate?",
+    "jawaban": "Yuk belajar cara gampang bikin memindahkan elemen dengan translate.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Memindahkan elemen dengan translate itu cocok untuk efek hover nggak?",
+    "jawaban": "Memindahkan elemen dengan translate bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>.kotak { transform: translateX(50px); }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu membuat efek hover dengan transition dalam CSS?",
+    "jawaban": "Membuat efek hover dengan transition digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai membuat efek hover dengan transition?",
+    "jawaban": "Untuk pakai membuat efek hover dengan transition, kamu bisa lihat contoh ini.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat efek hover dengan transition itu sering dipakai buat apa?",
+    "jawaban": "Membuat efek hover dengan transition bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan membuat efek hover dengan transition dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan membuat efek hover dengan transition.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal membuat efek hover dengan transition, bisa dijelaskan?",
+    "jawaban": "Membuat efek hover dengan transition sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai membuat efek hover dengan transition?",
+    "jawaban": "Kalau kamu mau efek halus, membuat efek hover dengan transition solusinya.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat efek hover dengan transition itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai membuat efek hover dengan transition.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai membuat efek hover dengan transition bisa gak?",
+    "jawaban": "membuat efek hover dengan transition bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai membuat efek hover dengan transition?",
+    "jawaban": "Yuk belajar cara gampang bikin membuat efek hover dengan transition.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Membuat efek hover dengan transition itu cocok untuk efek hover nggak?",
+    "jawaban": "Membuat efek hover dengan transition bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>a:hover { color: red; transition: color 0.3s; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu apa itu ease-in dan ease-out dalam CSS?",
+    "jawaban": "Apa itu ease-in dan ease-out digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai apa itu ease-in dan ease-out?",
+    "jawaban": "Untuk pakai apa itu ease-in dan ease-out, kamu bisa lihat contoh ini.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu ease-in dan ease-out itu sering dipakai buat apa?",
+    "jawaban": "Apa itu ease-in dan ease-out bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan apa itu ease-in dan ease-out dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan apa itu ease-in dan ease-out.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal apa itu ease-in dan ease-out, bisa dijelaskan?",
+    "jawaban": "Apa itu ease-in dan ease-out sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai apa itu ease-in dan ease-out?",
+    "jawaban": "Kalau kamu mau efek halus, apa itu ease-in dan ease-out solusinya.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu ease-in dan ease-out itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai apa itu ease-in dan ease-out.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai apa itu ease-in dan ease-out bisa gak?",
+    "jawaban": "apa itu ease-in dan ease-out bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai apa itu ease-in dan ease-out?",
+    "jawaban": "Yuk belajar cara gampang bikin apa itu ease-in dan ease-out.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu ease-in dan ease-out itu cocok untuk efek hover nggak?",
+    "jawaban": "Apa itu ease-in dan ease-out bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>div { transition: all 0.5s ease-in-out; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengatur delay animasi dalam CSS?",
+    "jawaban": "Mengatur delay animasi digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai mengatur delay animasi?",
+    "jawaban": "Untuk pakai mengatur delay animasi, kamu bisa lihat contoh ini.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur delay animasi itu sering dipakai buat apa?",
+    "jawaban": "Mengatur delay animasi bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan mengatur delay animasi dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan mengatur delay animasi.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal mengatur delay animasi, bisa dijelaskan?",
+    "jawaban": "Mengatur delay animasi sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai mengatur delay animasi?",
+    "jawaban": "Kalau kamu mau efek halus, mengatur delay animasi solusinya.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur delay animasi itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai mengatur delay animasi.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai mengatur delay animasi bisa gak?",
+    "jawaban": "mengatur delay animasi bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai mengatur delay animasi?",
+    "jawaban": "Yuk belajar cara gampang bikin mengatur delay animasi.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Mengatur delay animasi itu cocok untuk efek hover nggak?",
+    "jawaban": "Mengatur delay animasi bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>.kotak { animation-delay: 1s; }</style>"
+  },
+  {
+    "pertanyaan": "Apa itu mengulang animasi terus-menerus dalam CSS?",
+    "jawaban": "Mengulang animasi terus-menerus digunakan untuk membuat efek visual yang menarik di web.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pakai mengulang animasi terus-menerus?",
+    "jawaban": "Untuk pakai mengulang animasi terus-menerus, kamu bisa lihat contoh ini.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Mengulang animasi terus-menerus itu sering dipakai buat apa?",
+    "jawaban": "Mengulang animasi terus-menerus bikin tampilan jadi lebih dinamis dan interaktif.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Contoh penggunaan mengulang animasi terus-menerus dong!",
+    "jawaban": "Nih ya, contoh dasar penggunaan mengulang animasi terus-menerus.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Saya masih bingung soal mengulang animasi terus-menerus, bisa dijelaskan?",
+    "jawaban": "Mengulang animasi terus-menerus sangat berguna kalau kamu mau bikin animasi kecil-kecilan.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Ada nggak contoh animasi pakai mengulang animasi terus-menerus?",
+    "jawaban": "Kalau kamu mau efek halus, mengulang animasi terus-menerus solusinya.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Mengulang animasi terus-menerus itu bisa digabung sama transition nggak?",
+    "jawaban": "Perhatikan contoh di bawah ini buat pakai mengulang animasi terus-menerus.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Kalau mau efek animasi sederhana, pakai mengulang animasi terus-menerus bisa gak?",
+    "jawaban": "mengulang animasi terus-menerus bisa dipakai untuk berbagai efek visual sederhana sampai kompleks.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Gimana cara buat animasi pakai mengulang animasi terus-menerus?",
+    "jawaban": "Yuk belajar cara gampang bikin mengulang animasi terus-menerus.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  },
+  {
+    "pertanyaan": "Mengulang animasi terus-menerus itu cocok untuk efek hover nggak?",
+    "jawaban": "Mengulang animasi terus-menerus bikin web kamu kelihatan lebih hidup.",
+    "kode": "<style>.kotak { animation-iteration-count: infinite; }</style>"
+  }
+]

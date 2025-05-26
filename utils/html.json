@@ -1,0 +1,1532 @@
+[
+  {
+    "pertanyaan": "Bagaimana cara menampilkan teks 'Hello World' di HTML?",
+    "jawaban": "Kamu bisa menampilkan teks 'Hello World' menggunakan tag <p> atau langsung dalam body.",
+    "kode": "<!DOCTYPE html>\n<html>\n<body>\n  <p>Hello World</p>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya menampilkan teks 'Hello World' di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Kamu bisa menampilkan teks 'Hello World' menggunakan tag <p> atau langsung dalam body.",
+    "kode": "<!DOCTYPE html>\n<html>\n<body>\n  <p>Hello World</p>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah menampilkan teks 'Hello World' di HTML?",
+    "jawaban": "Salah satu cara yaitu: Kamu bisa menampilkan teks 'Hello World' menggunakan tag <p> atau langsung dalam body.",
+    "kode": "<!DOCTYPE html>\n<html>\n<body>\n  <p>Hello World</p>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "Apa itu heading dalam HTML?",
+    "jawaban": "Heading dalam HTML digunakan untuk membuat judul dari berbagai tingkat, mulai dari <h1> hingga <h6>.",
+    "kode": "<h1>Ini Heading 1</h1>\n<h2>Ini Heading 2</h2>\n<h3>Ini Heading 3</h3>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa itu heading dalam HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Heading dalam HTML digunakan untuk membuat judul dari berbagai tingkat, mulai dari <h1> hingga <h6>.",
+    "kode": "<h1>Ini Heading 1</h1>\n<h2>Ini Heading 2</h2>\n<h3>Ini Heading 3</h3>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian itu heading dalam HTML?",
+    "jawaban": "Salah satu cara yaitu: Heading dalam HTML digunakan untuk membuat judul dari berbagai tingkat, mulai dari <h1> hingga <h6>.",
+    "kode": "<h1>Ini Heading 1</h1>\n<h2>Ini Heading 2</h2>\n<h3>Ini Heading 3</h3>"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari HTML entities?",
+    "jawaban": "HTML entities digunakan untuk menampilkan karakter khusus seperti <, >, &, dll.",
+    "kode": "Contoh: &lt;, &gt;, &amp;, &copy;, &nbsp;"
+  },
+  {
+    "pertanyaan": "Jelaskan apa fungsi dari HTML entities?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: HTML entities digunakan untuk menampilkan karakter khusus seperti <, >, &, dll.",
+    "kode": "Contoh: &lt;, &gt;, &amp;, &copy;, &nbsp;"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian fungsi dari HTML entities?",
+    "jawaban": "Salah satu cara yaitu: HTML entities digunakan untuk menampilkan karakter khusus seperti <, >, &, dll.",
+    "kode": "Contoh: &lt;, &gt;, &amp;, &copy;, &nbsp;"
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat baris baru di HTML?",
+    "jawaban": "Gunakan tag <br> untuk membuat baris baru di HTML.",
+    "kode": "Teks baris pertama<br>Teks baris kedua"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya membuat baris baru di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan tag <br> untuk membuat baris baru di HTML.",
+    "kode": "Teks baris pertama<br>Teks baris kedua"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah membuat baris baru di HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan tag <br> untuk membuat baris baru di HTML.",
+    "kode": "Teks baris pertama<br>Teks baris kedua"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari tag <style> di HTML?",
+    "jawaban": "Tag <style> digunakan untuk menambahkan CSS langsung dalam file HTML.",
+    "kode": "<style>\np { color: blue; }\n</style>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa fungsi dari tag <style> di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Tag <style> digunakan untuk menambahkan CSS langsung dalam file HTML.",
+    "kode": "<style>\np { color: blue; }\n</style>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian fungsi dari tag <style> di HTML?",
+    "jawaban": "Salah satu cara yaitu: Tag <style> digunakan untuk menambahkan CSS langsung dalam file HTML.",
+    "kode": "<style>\np { color: blue; }\n</style>"
+  },
+  {
+    "pertanyaan": "Apa saja jenis formatting teks dalam HTML?",
+    "jawaban": "Beberapa jenis formatting teks di HTML: <b> bold, <i> italic, <u> underline, <mark> highlight.",
+    "kode": "<p><b>Teks Bold</b>, <i>Teks Italic</i></p>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa saja jenis formatting teks dalam HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Beberapa jenis formatting teks di HTML: <b> bold, <i> italic, <u> underline, <mark> highlight.",
+    "kode": "<p><b>Teks Bold</b>, <i>Teks Italic</i></p>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian saja jenis formatting teks dalam HTML?",
+    "jawaban": "Salah satu cara yaitu: Beberapa jenis formatting teks di HTML: <b> bold, <i> italic, <u> underline, <mark> highlight.",
+    "kode": "<p><b>Teks Bold</b>, <i>Teks Italic</i></p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menulis komentar di HTML?",
+    "jawaban": "Komentar di HTML ditulis menggunakan <!-- komentar -->",
+    "kode": "<!-- Ini adalah komentar -->"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya menulis komentar di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Komentar di HTML ditulis menggunakan <!-- komentar -->",
+    "kode": "<!-- Ini adalah komentar -->"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah menulis komentar di HTML?",
+    "jawaban": "Salah satu cara yaitu: Komentar di HTML ditulis menggunakan <!-- komentar -->",
+    "kode": "<!-- Ini adalah komentar -->"
+  },
+  {
+    "pertanyaan": "Bagaimana cara memberi warna pada elemen HTML?",
+    "jawaban": "Gunakan atribut style dengan properti color atau background-color.",
+    "kode": "<p style=\"color: red;\">Teks merah</p>"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya memberi warna pada elemen HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan atribut style dengan properti color atau background-color.",
+    "kode": "<p style=\"color: red;\">Teks merah</p>"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah memberi warna pada elemen HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan atribut style dengan properti color atau background-color.",
+    "kode": "<p style=\"color: red;\">Teks merah</p>"
+  },
+  {
+    "pertanyaan": "Apa saja jenis list di HTML?",
+    "jawaban": "HTML memiliki tiga jenis list: ordered list (<ol>), unordered list (<ul>), dan description list (<dl>).",
+    "kode": "<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n</ul>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa saja jenis list di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: HTML memiliki tiga jenis list: ordered list (<ol>), unordered list (<ul>), dan description list (<dl>).",
+    "kode": "<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n</ul>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian saja jenis list di HTML?",
+    "jawaban": "Salah satu cara yaitu: HTML memiliki tiga jenis list: ordered list (<ol>), unordered list (<ul>), dan description list (<dl>).",
+    "kode": "<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n</ul>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat link di HTML?",
+    "jawaban": "Gunakan tag <a> dengan atribut href untuk membuat hyperlink.",
+    "kode": "<a href=\"https://example.com\">Kunjungi Website</a>"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya membuat link di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan tag <a> dengan atribut href untuk membuat hyperlink.",
+    "kode": "<a href=\"https://example.com\">Kunjungi Website</a>"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah membuat link di HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan tag <a> dengan atribut href untuk membuat hyperlink.",
+    "kode": "<a href=\"https://example.com\">Kunjungi Website</a>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menampilkan gambar di HTML?",
+    "jawaban": "Gunakan tag <img> dengan atribut src dan alt.",
+    "kode": "<img src=\"gambar.jpg\" alt=\"Deskripsi gambar\">"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya menampilkan gambar di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan tag <img> dengan atribut src dan alt.",
+    "kode": "<img src=\"gambar.jpg\" alt=\"Deskripsi gambar\">"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah menampilkan gambar di HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan tag <img> dengan atribut src dan alt.",
+    "kode": "<img src=\"gambar.jpg\" alt=\"Deskripsi gambar\">"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari tag <p> dalam HTML?",
+    "jawaban": "Tag <p> digunakan untuk membuat paragraf.",
+    "kode": "<p>Ini adalah paragraf.</p>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa fungsi dari tag <p> dalam HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Tag <p> digunakan untuk membuat paragraf.",
+    "kode": "<p>Ini adalah paragraf.</p>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian fungsi dari tag <p> dalam HTML?",
+    "jawaban": "Salah satu cara yaitu: Tag <p> digunakan untuk membuat paragraf.",
+    "kode": "<p>Ini adalah paragraf.</p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menampilkan kode komputer di HTML?",
+    "jawaban": "Gunakan tag <code>, <pre>, atau <kbd> untuk menampilkan kode komputer.",
+    "kode": "<pre><code>console.log('Hello');</code></pre>"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya menampilkan kode komputer di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan tag <code>, <pre>, atau <kbd> untuk menampilkan kode komputer.",
+    "kode": "<pre><code>console.log('Hello');</code></pre>"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah menampilkan kode komputer di HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan tag <code>, <pre>, atau <kbd> untuk menampilkan kode komputer.",
+    "kode": "<pre><code>console.log('Hello');</code></pre>"
+  },
+  {
+    "pertanyaan": "Bagaimana menambahkan emoji di HTML?",
+    "jawaban": "Gunakan Unicode atau salin langsung emoji ke HTML.",
+    "kode": "<p>\ud83d\ude0a &#128512;</p>"
+  },
+  {
+    "pertanyaan": "Jelaskan bagaimana menambahkan emoji di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan Unicode atau salin langsung emoji ke HTML.",
+    "kode": "<p>\ud83d\ude0a &#128512;</p>"
+  },
+  {
+    "pertanyaan": "Menurutmu gimana menambahkan emoji di HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan Unicode atau salin langsung emoji ke HTML.",
+    "kode": "<p>\ud83d\ude0a &#128512;</p>"
+  },
+  {
+    "pertanyaan": "Apa fungsi tag <head> di HTML?",
+    "jawaban": "Tag <head> digunakan untuk menyimpan metadata seperti judul, link CSS, dan script.",
+    "kode": "<head>\n  <title>Judul Halaman</title>\n</head>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa fungsi tag <head> di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Tag <head> digunakan untuk menyimpan metadata seperti judul, link CSS, dan script.",
+    "kode": "<head>\n  <title>Judul Halaman</title>\n</head>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian fungsi tag <head> di HTML?",
+    "jawaban": "Salah satu cara yaitu: Tag <head> digunakan untuk menyimpan metadata seperti judul, link CSS, dan script.",
+    "kode": "<head>\n  <title>Judul Halaman</title>\n</head>"
+  },
+  {
+    "pertanyaan": "Apa itu favicon di HTML dan bagaimana menambahkannya?",
+    "jawaban": "Favicon adalah ikon kecil yang muncul di tab browser. Ditambahkan lewat tag <link> dalam <head>.",
+    "kode": "<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\">"
+  },
+  {
+    "pertanyaan": "Jelaskan apa itu favicon di HTML dan bagaimana menambahkannya?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Favicon adalah ikon kecil yang muncul di tab browser. Ditambahkan lewat tag <link> dalam <head>.",
+    "kode": "<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\">"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian itu favicon di HTML dan bagaimana menambahkannya?",
+    "jawaban": "Salah satu cara yaitu: Favicon adalah ikon kecil yang muncul di tab browser. Ditambahkan lewat tag <link> dalam <head>.",
+    "kode": "<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\">"
+  },
+  {
+    "pertanyaan": "Apa itu tag <div> dan untuk apa digunakan?",
+    "jawaban": "Tag <div> adalah kontainer blok yang digunakan untuk mengelompokkan elemen.",
+    "kode": "<div>\n  <p>Isi dalam div</p>\n</div>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa itu tag <div> dan untuk apa digunakan?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Tag <div> adalah kontainer blok yang digunakan untuk mengelompokkan elemen.",
+    "kode": "<div>\n  <p>Isi dalam div</p>\n</div>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian itu tag <div> dan untuk apa digunakan?",
+    "jawaban": "Salah satu cara yaitu: Tag <div> adalah kontainer blok yang digunakan untuk mengelompokkan elemen.",
+    "kode": "<div>\n  <p>Isi dalam div</p>\n</div>"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari tag <span>?",
+    "jawaban": "Tag <span> adalah kontainer inline yang digunakan untuk styling sebagian teks.",
+    "kode": "<p>Ini <span style=\"color:red\">merah</span></p>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa fungsi dari tag <span>?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Tag <span> adalah kontainer inline yang digunakan untuk styling sebagian teks.",
+    "kode": "<p>Ini <span style=\"color:red\">merah</span></p>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian fungsi dari tag <span>?",
+    "jawaban": "Salah satu cara yaitu: Tag <span> adalah kontainer inline yang digunakan untuk styling sebagian teks.",
+    "kode": "<p>Ini <span style=\"color:red\">merah</span></p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menambahkan video ke HTML?",
+    "jawaban": "Gunakan tag <video> dengan atribut controls dan source.",
+    "kode": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"video.mp4\" type=\"video/mp4\">\n</video>"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya menambahkan video ke HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan tag <video> dengan atribut controls dan source.",
+    "kode": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"video.mp4\" type=\"video/mp4\">\n</video>"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah menambahkan video ke HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan tag <video> dengan atribut controls dan source.",
+    "kode": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"video.mp4\" type=\"video/mp4\">\n</video>"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan HTML5?",
+    "jawaban": "HTML5 adalah versi terbaru HTML yang mendukung elemen baru seperti <article>, <section>, dan API tambahan.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Jelaskan apa yang dimaksud dengan HTML5?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: HTML5 adalah versi terbaru HTML yang mendukung elemen baru seperti <article>, <section>, dan API tambahan.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian yang dimaksud dengan HTML5?",
+    "jawaban": "Salah satu cara yaitu: HTML5 adalah versi terbaru HTML yang mendukung elemen baru seperti <article>, <section>, dan API tambahan.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat tabel di HTML?",
+    "jawaban": "Gunakan tag <table> bersama <tr>, <th>, dan <td> untuk membuat tabel.",
+    "kode": "<table>\n  <tr><th>Nama</th><th>Umur</th></tr>\n  <tr><td>Ani</td><td>20</td></tr>\n</table>"
+  },
+  {
+    "pertanyaan": "Gimana sih caranya membuat tabel di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Gunakan tag <table> bersama <tr>, <th>, dan <td> untuk membuat tabel.",
+    "kode": "<table>\n  <tr><th>Nama</th><th>Umur</th></tr>\n  <tr><td>Ani</td><td>20</td></tr>\n</table>"
+  },
+  {
+    "pertanyaan": "Tuliskan langkah membuat tabel di HTML?",
+    "jawaban": "Salah satu cara yaitu: Gunakan tag <table> bersama <tr>, <th>, dan <td> untuk membuat tabel.",
+    "kode": "<table>\n  <tr><th>Nama</th><th>Umur</th></tr>\n  <tr><td>Ani</td><td>20</td></tr>\n</table>"
+  },
+  {
+    "pertanyaan": "Apa itu elemen semantik di HTML?",
+    "jawaban": "Elemen semantik menjelaskan makna konten seperti <article>, <footer>, <header>, <section>.",
+    "kode": "<section>\n  <h2>Judul Seksi</h2>\n</section>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa itu elemen semantik di HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Elemen semantik menjelaskan makna konten seperti <article>, <footer>, <header>, <section>.",
+    "kode": "<section>\n  <h2>Judul Seksi</h2>\n</section>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian itu elemen semantik di HTML?",
+    "jawaban": "Salah satu cara yaitu: Elemen semantik menjelaskan makna konten seperti <article>, <footer>, <header>, <section>.",
+    "kode": "<section>\n  <h2>Judul Seksi</h2>\n</section>"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari atribut id dalam HTML?",
+    "jawaban": "Atribut id memberikan identitas unik pada elemen HTML yang bisa diakses dengan CSS atau JavaScript.",
+    "kode": "<p id=\"paragraf1\">Paragraf dengan ID</p>"
+  },
+  {
+    "pertanyaan": "Jelaskan apa fungsi dari atribut id dalam HTML?",
+    "jawaban": "Untuk itu, kamu bisa menggunakan: Atribut id memberikan identitas unik pada elemen HTML yang bisa diakses dengan CSS atau JavaScript.",
+    "kode": "<p id=\"paragraf1\">Paragraf dengan ID</p>"
+  },
+  {
+    "pertanyaan": "Coba jelaskan pengertian fungsi dari atribut id dalam HTML?",
+    "jawaban": "Salah satu cara yaitu: Atribut id memberikan identitas unik pada elemen HTML yang bisa diakses dengan CSS atau JavaScript.",
+    "kode": "<p id=\"paragraf1\">Paragraf dengan ID</p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menampilkan teks 'Hello World' di HTML?",
+    "jawaban": "Kamu bisa menampilkan teks 'Hello World' menggunakan tag <p> atau langsung dalam body.",
+    "kode": "<!DOCTYPE html>\n<html>\n<body>\n  <p>Hello World</p>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "Apa itu heading dalam HTML?",
+    "jawaban": "Heading dalam HTML digunakan untuk membuat judul dari berbagai tingkat, mulai dari <h1> hingga <h6>.",
+    "kode": "<h1>Ini Heading 1</h1>\n<h2>Ini Heading 2</h2>\n<h3>Ini Heading 3</h3>"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari HTML entities?",
+    "jawaban": "HTML entities digunakan untuk menampilkan karakter khusus seperti <, >, &, dll.",
+    "kode": "Contoh: &lt;, &gt;, &amp;, &copy;, &nbsp;"
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat baris baru di HTML?",
+    "jawaban": "Gunakan tag <br> untuk membuat baris baru di HTML.",
+    "kode": "Teks baris pertama<br>Teks baris kedua"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari tag <style> di HTML?",
+    "jawaban": "Tag <style> digunakan untuk menambahkan CSS langsung dalam file HTML.",
+    "kode": "<style>\np { color: blue; }\n</style>"
+  },
+  {
+    "pertanyaan": "Apa saja jenis formatting teks dalam HTML?",
+    "jawaban": "Beberapa jenis formatting teks di HTML: <b> bold, <i> italic, <u> underline, <mark> highlight.",
+    "kode": "<p><b>Teks Bold</b>, <i>Teks Italic</i></p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menulis komentar di HTML?",
+    "jawaban": "Komentar di HTML ditulis menggunakan <!-- komentar -->",
+    "kode": "<!-- Ini adalah komentar -->"
+  },
+  {
+    "pertanyaan": "Bagaimana cara memberi warna pada elemen HTML?",
+    "jawaban": "Gunakan atribut style dengan properti color atau background-color.",
+    "kode": "<p style=\"color: red;\">Teks merah</p>"
+  },
+  {
+    "pertanyaan": "Apa saja jenis list di HTML?",
+    "jawaban": "HTML memiliki tiga jenis list: ordered list (<ol>), unordered list (<ul>), dan description list (<dl>).",
+    "kode": "<ul>\n  <li>Item 1</li>\n  <li>Item 2</li>\n</ul>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat link di HTML?",
+    "jawaban": "Gunakan tag <a> dengan atribut href untuk membuat hyperlink.",
+    "kode": "<a href=\"https://example.com\">Kunjungi Website</a>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menampilkan gambar di HTML?",
+    "jawaban": "Gunakan tag <img> dengan atribut src dan alt.",
+    "kode": "<img src=\"gambar.jpg\" alt=\"Deskripsi gambar\">"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari tag <p> dalam HTML?",
+    "jawaban": "Tag <p> digunakan untuk membuat paragraf.",
+    "kode": "<p>Ini adalah paragraf.</p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menampilkan kode komputer di HTML?",
+    "jawaban": "Gunakan tag <code>, <pre>, atau <kbd> untuk menampilkan kode komputer.",
+    "kode": "<pre><code>console.log('Hello');</code></pre>"
+  },
+  {
+    "pertanyaan": "Bagaimana menambahkan emoji di HTML?",
+    "jawaban": "Gunakan Unicode atau salin langsung emoji ke HTML.",
+    "kode": "<p>\ud83d\ude0a &#128512;</p>"
+  },
+  {
+    "pertanyaan": "Apa fungsi tag <head> di HTML?",
+    "jawaban": "Tag <head> digunakan untuk menyimpan metadata seperti judul, link CSS, dan script.",
+    "kode": "<head>\n  <title>Judul Halaman</title>\n</head>"
+  },
+  {
+    "pertanyaan": "Apa itu favicon di HTML dan bagaimana menambahkannya?",
+    "jawaban": "Favicon adalah ikon kecil yang muncul di tab browser. Ditambahkan lewat tag <link> dalam <head>.",
+    "kode": "<link rel=\"icon\" href=\"favicon.ico\" type=\"image/x-icon\">"
+  },
+  {
+    "pertanyaan": "Apa itu tag <div> dan untuk apa digunakan?",
+    "jawaban": "Tag <div> adalah kontainer blok yang digunakan untuk mengelompokkan elemen.",
+    "kode": "<div>\n  <p>Isi dalam div</p>\n</div>"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari tag <span>?",
+    "jawaban": "Tag <span> adalah kontainer inline yang digunakan untuk styling sebagian teks.",
+    "kode": "<p>Ini <span style=\"color:red\">merah</span></p>"
+  },
+  {
+    "pertanyaan": "Bagaimana cara menambahkan video ke HTML?",
+    "jawaban": "Gunakan tag <video> dengan atribut controls dan source.",
+    "kode": "<video width=\"320\" height=\"240\" controls>\n  <source src=\"video.mp4\" type=\"video/mp4\">\n</video>"
+  },
+  {
+    "pertanyaan": "Apa yang dimaksud dengan HTML5?",
+    "jawaban": "HTML5 adalah versi terbaru HTML yang mendukung elemen baru seperti <article>, <section>, dan API tambahan.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat tabel di HTML?",
+    "jawaban": "Gunakan tag <table> bersama <tr>, <th>, dan <td> untuk membuat tabel.",
+    "kode": "<table>\n  <tr><th>Nama</th><th>Umur</th></tr>\n  <tr><td>Ani</td><td>20</td></tr>\n</table>"
+  },
+  {
+    "pertanyaan": "Apa itu elemen semantik di HTML?",
+    "jawaban": "Elemen semantik menjelaskan makna konten seperti <article>, <footer>, <header>, <section>.",
+    "kode": "<section>\n  <h2>Judul Seksi</h2>\n</section>"
+  },
+  {
+    "pertanyaan": "Apa fungsi dari atribut id dalam HTML?",
+    "jawaban": "Atribut id memberikan identitas unik pada elemen HTML yang bisa diakses dengan CSS atau JavaScript.",
+    "kode": "<p id=\"paragraf1\">Paragraf dengan ID</p>"
+  },
+  {
+    "pertanyaan": "Kalau mau nampilin teks hello world gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk nampilin teks hello world.\n",
+    "kode": "<p>Hello World</p>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat nampilin teks hello world?",
+    "jawaban": "Gunakan tag ini kalau kamu mau nampilin teks hello world:",
+    "kode": "<p>Hello World</p>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk nampilin teks hello world itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat nampilin teks hello world:",
+    "kode": "<p>Hello World</p>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk nampilin teks hello world apa ya?",
+    "jawaban": "Biar bisa nampilin teks hello world, tinggal gunakan struktur HTML berikut:",
+    "kode": "<p>Hello World</p>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk nampilin teks hello world dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat nampilin teks hello world:",
+    "kode": "<p>Hello World</p>"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin judul besar gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk bikin judul besar.\n",
+    "kode": "<h1>Judul Besar</h1>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat bikin judul besar?",
+    "jawaban": "Gunakan tag ini kalau kamu mau bikin judul besar:",
+    "kode": "<h1>Judul Besar</h1>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk bikin judul besar itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat bikin judul besar:",
+    "kode": "<h1>Judul Besar</h1>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk bikin judul besar apa ya?",
+    "jawaban": "Biar bisa bikin judul besar, tinggal gunakan struktur HTML berikut:",
+    "kode": "<h1>Judul Besar</h1>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk bikin judul besar dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat bikin judul besar:",
+    "kode": "<h1>Judul Besar</h1>"
+  },
+  {
+    "pertanyaan": "Kalau mau ganti baris di paragraf gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk ganti baris di paragraf.\n",
+    "kode": "Ini baris pertama<br>Ini baris kedua"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat ganti baris di paragraf?",
+    "jawaban": "Gunakan tag ini kalau kamu mau ganti baris di paragraf:",
+    "kode": "Ini baris pertama<br>Ini baris kedua"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk ganti baris di paragraf itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat ganti baris di paragraf:",
+    "kode": "Ini baris pertama<br>Ini baris kedua"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk ganti baris di paragraf apa ya?",
+    "jawaban": "Biar bisa ganti baris di paragraf, tinggal gunakan struktur HTML berikut:",
+    "kode": "Ini baris pertama<br>Ini baris kedua"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk ganti baris di paragraf dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat ganti baris di paragraf:",
+    "kode": "Ini baris pertama<br>Ini baris kedua"
+  },
+  {
+    "pertanyaan": "Kalau mau nampilin gambar gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk nampilin gambar.\n",
+    "kode": "<img src=\"kue.jpg\" alt=\"Kue lezat\">"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat nampilin gambar?",
+    "jawaban": "Gunakan tag ini kalau kamu mau nampilin gambar:",
+    "kode": "<img src=\"kue.jpg\" alt=\"Kue lezat\">"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk nampilin gambar itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat nampilin gambar:",
+    "kode": "<img src=\"kue.jpg\" alt=\"Kue lezat\">"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk nampilin gambar apa ya?",
+    "jawaban": "Biar bisa nampilin gambar, tinggal gunakan struktur HTML berikut:",
+    "kode": "<img src=\"kue.jpg\" alt=\"Kue lezat\">"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk nampilin gambar dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat nampilin gambar:",
+    "kode": "<img src=\"kue.jpg\" alt=\"Kue lezat\">"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin link ke halaman lain gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk bikin link ke halaman lain.\n",
+    "kode": "<a href=\"https://google.com\">Ke Google</a>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat bikin link ke halaman lain?",
+    "jawaban": "Gunakan tag ini kalau kamu mau bikin link ke halaman lain:",
+    "kode": "<a href=\"https://google.com\">Ke Google</a>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk bikin link ke halaman lain itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat bikin link ke halaman lain:",
+    "kode": "<a href=\"https://google.com\">Ke Google</a>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk bikin link ke halaman lain apa ya?",
+    "jawaban": "Biar bisa bikin link ke halaman lain, tinggal gunakan struktur HTML berikut:",
+    "kode": "<a href=\"https://google.com\">Ke Google</a>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk bikin link ke halaman lain dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat bikin link ke halaman lain:",
+    "kode": "<a href=\"https://google.com\">Ke Google</a>"
+  },
+  {
+    "pertanyaan": "Kalau mau tambah warna teks gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk tambah warna teks.\n",
+    "kode": "<p style=\"color:blue;\">Teks warna biru</p>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat tambah warna teks?",
+    "jawaban": "Gunakan tag ini kalau kamu mau tambah warna teks:",
+    "kode": "<p style=\"color:blue;\">Teks warna biru</p>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk tambah warna teks itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat tambah warna teks:",
+    "kode": "<p style=\"color:blue;\">Teks warna biru</p>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk tambah warna teks apa ya?",
+    "jawaban": "Biar bisa tambah warna teks, tinggal gunakan struktur HTML berikut:",
+    "kode": "<p style=\"color:blue;\">Teks warna biru</p>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk tambah warna teks dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat tambah warna teks:",
+    "kode": "<p style=\"color:blue;\">Teks warna biru</p>"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin daftar belanja gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk bikin daftar belanja.\n",
+    "kode": "<ul><li>Telur</li><li>Tepung</li></ul>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat bikin daftar belanja?",
+    "jawaban": "Gunakan tag ini kalau kamu mau bikin daftar belanja:",
+    "kode": "<ul><li>Telur</li><li>Tepung</li></ul>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk bikin daftar belanja itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat bikin daftar belanja:",
+    "kode": "<ul><li>Telur</li><li>Tepung</li></ul>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk bikin daftar belanja apa ya?",
+    "jawaban": "Biar bisa bikin daftar belanja, tinggal gunakan struktur HTML berikut:",
+    "kode": "<ul><li>Telur</li><li>Tepung</li></ul>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk bikin daftar belanja dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat bikin daftar belanja:",
+    "kode": "<ul><li>Telur</li><li>Tepung</li></ul>"
+  },
+  {
+    "pertanyaan": "Kalau mau nampilin video gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk nampilin video.\n",
+    "kode": "<video controls><source src=\"vidio.mp4\" type=\"video/mp4\"></video>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat nampilin video?",
+    "jawaban": "Gunakan tag ini kalau kamu mau nampilin video:",
+    "kode": "<video controls><source src=\"vidio.mp4\" type=\"video/mp4\"></video>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk nampilin video itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat nampilin video:",
+    "kode": "<video controls><source src=\"vidio.mp4\" type=\"video/mp4\"></video>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk nampilin video apa ya?",
+    "jawaban": "Biar bisa nampilin video, tinggal gunakan struktur HTML berikut:",
+    "kode": "<video controls><source src=\"vidio.mp4\" type=\"video/mp4\"></video>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk nampilin video dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat nampilin video:",
+    "kode": "<video controls><source src=\"vidio.mp4\" type=\"video/mp4\"></video>"
+  },
+  {
+    "pertanyaan": "Kalau mau kasih komentar di html gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk kasih komentar di html.\n",
+    "kode": "<!-- Ini komentar -->"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat kasih komentar di html?",
+    "jawaban": "Gunakan tag ini kalau kamu mau kasih komentar di html:",
+    "kode": "<!-- Ini komentar -->"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk kasih komentar di html itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat kasih komentar di html:",
+    "kode": "<!-- Ini komentar -->"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk kasih komentar di html apa ya?",
+    "jawaban": "Biar bisa kasih komentar di html, tinggal gunakan struktur HTML berikut:",
+    "kode": "<!-- Ini komentar -->"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk kasih komentar di html dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat kasih komentar di html:",
+    "kode": "<!-- Ini komentar -->"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin paragraf gimana ya?",
+    "jawaban": "Kamu bisa pakai tag HTML seperti ini untuk bikin paragraf.\n",
+    "kode": "<p>Ini paragraf pertama saya</p>"
+  },
+  {
+    "pertanyaan": "Apa tag HTML buat bikin paragraf?",
+    "jawaban": "Gunakan tag ini kalau kamu mau bikin paragraf:",
+    "kode": "<p>Ini paragraf pertama saya</p>"
+  },
+  {
+    "pertanyaan": "Cara paling gampang untuk bikin paragraf itu gimana?",
+    "jawaban": "Ini contoh yang umum dipakai saat bikin paragraf:",
+    "kode": "<p>Ini paragraf pertama saya</p>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, tag untuk bikin paragraf apa ya?",
+    "jawaban": "Biar bisa bikin paragraf, tinggal gunakan struktur HTML berikut:",
+    "kode": "<p>Ini paragraf pertama saya</p>"
+  },
+  {
+    "pertanyaan": "Contoh paling dasar untuk bikin paragraf dong!",
+    "jawaban": "Nih ya, biasanya orang pakai tag ini buat bikin paragraf:",
+    "kode": "<p>Ini paragraf pertama saya</p>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara bikin form HTML di HTML?",
+    "jawaban": "Untuk bikin form HTML, biasanya kita pakai tag seperti ini:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Saya mau bikin form HTML, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk bikin form HTML:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat bikin form HTML ya?",
+    "jawaban": "Tag <form> dipakai untuk bikin form HTML. Ini contohnya:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Contoh simpel bikin form HTML dong!",
+    "jawaban": "Cara umum untuk bikin form HTML bisa kamu lihat di bawah ini:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag form dalam HTML?",
+    "jawaban": "Tenang, bikin bikin form HTML itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, bikin form HTML gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk bikin form HTML?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin form HTML, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk bikin form HTML, berikut contohnya:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Bikin form html itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk bikin form HTML:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat bikin form HTML gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<form action=\"/submit\" method=\"post\">\n  ...\n</form>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara nampilin kotak input teks di HTML?",
+    "jawaban": "Untuk nampilin kotak input teks, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Saya mau nampilin kotak input teks, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk nampilin kotak input teks:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat nampilin kotak input teks ya?",
+    "jawaban": "Tag <input text> dipakai untuk nampilin kotak input teks. Ini contohnya:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel nampilin kotak input teks dong!",
+    "jawaban": "Cara umum untuk nampilin kotak input teks bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag input text dalam HTML?",
+    "jawaban": "Tenang, bikin nampilin kotak input teks itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, nampilin kotak input teks gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk nampilin kotak input teks?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Kalau mau nampilin kotak input teks, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk nampilin kotak input teks, berikut contohnya:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Nampilin kotak input teks itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk nampilin kotak input teks:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat nampilin kotak input teks gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"text\" name=\"nama\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara nampilin label buat input di HTML?",
+    "jawaban": "Untuk nampilin label buat input, biasanya kita pakai tag seperti ini:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Saya mau nampilin label buat input, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk nampilin label buat input:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat nampilin label buat input ya?",
+    "jawaban": "Tag <label> dipakai untuk nampilin label buat input. Ini contohnya:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel nampilin label buat input dong!",
+    "jawaban": "Cara umum untuk nampilin label buat input bisa kamu lihat di bawah ini:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag label dalam HTML?",
+    "jawaban": "Tenang, bikin nampilin label buat input itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, nampilin label buat input gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk nampilin label buat input?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Kalau mau nampilin label buat input, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk nampilin label buat input, berikut contohnya:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Nampilin label buat input itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk nampilin label buat input:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat nampilin label buat input gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<label for=\"nama\">Nama:</label>\n<input type=\"text\" id=\"nama\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara buat tombol submit di HTML?",
+    "jawaban": "Untuk buat tombol submit, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Saya mau buat tombol submit, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk buat tombol submit:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat buat tombol submit ya?",
+    "jawaban": "Tag <submit> dipakai untuk buat tombol submit. Ini contohnya:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel buat tombol submit dong!",
+    "jawaban": "Cara umum untuk buat tombol submit bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag submit dalam HTML?",
+    "jawaban": "Tenang, bikin buat tombol submit itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, buat tombol submit gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk buat tombol submit?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Kalau mau buat tombol submit, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk buat tombol submit, berikut contohnya:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Buat tombol submit itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk buat tombol submit:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat buat tombol submit gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"submit\" value=\"Kirim\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara bikin tombol reset di HTML?",
+    "jawaban": "Untuk bikin tombol reset, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Saya mau bikin tombol reset, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk bikin tombol reset:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat bikin tombol reset ya?",
+    "jawaban": "Tag <reset> dipakai untuk bikin tombol reset. Ini contohnya:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel bikin tombol reset dong!",
+    "jawaban": "Cara umum untuk bikin tombol reset bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag reset dalam HTML?",
+    "jawaban": "Tenang, bikin bikin tombol reset itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, bikin tombol reset gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk bikin tombol reset?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin tombol reset, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk bikin tombol reset, berikut contohnya:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Bikin tombol reset itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk bikin tombol reset:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat bikin tombol reset gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"reset\" value=\"Reset\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara pake tombol biasa di HTML?",
+    "jawaban": "Untuk pake tombol biasa, biasanya kita pakai tag seperti ini:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Saya mau pake tombol biasa, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk pake tombol biasa:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat pake tombol biasa ya?",
+    "jawaban": "Tag <button> dipakai untuk pake tombol biasa. Ini contohnya:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Contoh simpel pake tombol biasa dong!",
+    "jawaban": "Cara umum untuk pake tombol biasa bisa kamu lihat di bawah ini:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag button dalam HTML?",
+    "jawaban": "Tenang, bikin pake tombol biasa itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, pake tombol biasa gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk pake tombol biasa?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Kalau mau pake tombol biasa, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk pake tombol biasa, berikut contohnya:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Pake tombol biasa itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk pake tombol biasa:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat pake tombol biasa gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<button>Klik Saya</button>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara buat kotak centang di HTML?",
+    "jawaban": "Untuk buat kotak centang, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Saya mau buat kotak centang, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk buat kotak centang:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat buat kotak centang ya?",
+    "jawaban": "Tag <checkbox> dipakai untuk buat kotak centang. Ini contohnya:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Contoh simpel buat kotak centang dong!",
+    "jawaban": "Cara umum untuk buat kotak centang bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag checkbox dalam HTML?",
+    "jawaban": "Tenang, bikin buat kotak centang itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, buat kotak centang gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk buat kotak centang?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Kalau mau buat kotak centang, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk buat kotak centang, berikut contohnya:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Buat kotak centang itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk buat kotak centang:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat buat kotak centang gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"checkbox\" name=\"hobi\" value=\"Membaca\"> Membaca"
+  },
+  {
+    "pertanyaan": "Gimana sih cara milih warna di HTML?",
+    "jawaban": "Untuk milih warna, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Saya mau milih warna, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk milih warna:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat milih warna ya?",
+    "jawaban": "Tag <color> dipakai untuk milih warna. Ini contohnya:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel milih warna dong!",
+    "jawaban": "Cara umum untuk milih warna bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag color dalam HTML?",
+    "jawaban": "Tenang, bikin milih warna itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, milih warna gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk milih warna?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Kalau mau milih warna, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk milih warna, berikut contohnya:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Milih warna itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk milih warna:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat milih warna gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"color\" name=\"warna\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara input tanggal di HTML?",
+    "jawaban": "Untuk input tanggal, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Saya mau input tanggal, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk input tanggal:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat input tanggal ya?",
+    "jawaban": "Tag <date> dipakai untuk input tanggal. Ini contohnya:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel input tanggal dong!",
+    "jawaban": "Cara umum untuk input tanggal bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag date dalam HTML?",
+    "jawaban": "Tenang, bikin input tanggal itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, input tanggal gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk input tanggal?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Kalau mau input tanggal, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk input tanggal, berikut contohnya:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Input tanggal itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk input tanggal:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat input tanggal gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"date\" name=\"tanggal\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara input tanggal dan waktu di HTML?",
+    "jawaban": "Untuk input tanggal dan waktu, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Saya mau input tanggal dan waktu, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk input tanggal dan waktu:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat input tanggal dan waktu ya?",
+    "jawaban": "Tag <datetime-local> dipakai untuk input tanggal dan waktu. Ini contohnya:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel input tanggal dan waktu dong!",
+    "jawaban": "Cara umum untuk input tanggal dan waktu bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag datetime-local dalam HTML?",
+    "jawaban": "Tenang, bikin input tanggal dan waktu itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, input tanggal dan waktu gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk input tanggal dan waktu?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Kalau mau input tanggal dan waktu, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk input tanggal dan waktu, berikut contohnya:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Input tanggal dan waktu itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk input tanggal dan waktu:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat input tanggal dan waktu gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"datetime-local\" name=\"waktu\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara input minggu di HTML?",
+    "jawaban": "Untuk input minggu, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Saya mau input minggu, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk input minggu:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat input minggu ya?",
+    "jawaban": "Tag <week> dipakai untuk input minggu. Ini contohnya:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel input minggu dong!",
+    "jawaban": "Cara umum untuk input minggu bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag week dalam HTML?",
+    "jawaban": "Tenang, bikin input minggu itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, input minggu gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk input minggu?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Kalau mau input minggu, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk input minggu, berikut contohnya:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Input minggu itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk input minggu:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat input minggu gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"week\" name=\"minggu\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara input email di HTML?",
+    "jawaban": "Untuk input email, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Saya mau input email, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk input email:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat input email ya?",
+    "jawaban": "Tag <email> dipakai untuk input email. Ini contohnya:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel input email dong!",
+    "jawaban": "Cara umum untuk input email bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag email dalam HTML?",
+    "jawaban": "Tenang, bikin input email itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, input email gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk input email?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Kalau mau input email, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk input email, berikut contohnya:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Input email itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk input email:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat input email gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"email\" name=\"email\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara upload file di HTML?",
+    "jawaban": "Untuk upload file, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Saya mau upload file, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk upload file:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat upload file ya?",
+    "jawaban": "Tag <file> dipakai untuk upload file. Ini contohnya:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel upload file dong!",
+    "jawaban": "Cara umum untuk upload file bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag file dalam HTML?",
+    "jawaban": "Tenang, bikin upload file itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, upload file gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk upload file?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Kalau mau upload file, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk upload file, berikut contohnya:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Upload file itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk upload file:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat upload file gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"file\" name=\"berkas\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara input tersembunyi di HTML?",
+    "jawaban": "Untuk input tersembunyi, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Saya mau input tersembunyi, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk input tersembunyi:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat input tersembunyi ya?",
+    "jawaban": "Tag <hidden> dipakai untuk input tersembunyi. Ini contohnya:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel input tersembunyi dong!",
+    "jawaban": "Cara umum untuk input tersembunyi bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag hidden dalam HTML?",
+    "jawaban": "Tenang, bikin input tersembunyi itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, input tersembunyi gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk input tersembunyi?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Kalau mau input tersembunyi, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk input tersembunyi, berikut contohnya:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Input tersembunyi itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk input tersembunyi:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat input tersembunyi gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"hidden\" name=\"id\" value=\"123\">"
+  },
+  {
+    "pertanyaan": "Gimana sih cara input berupa gambar di HTML?",
+    "jawaban": "Untuk input berupa gambar, biasanya kita pakai tag seperti ini:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Saya mau input berupa gambar, tag apa yang dipakai?",
+    "jawaban": "Kamu bisa mulai dengan contoh ini untuk input berupa gambar:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Apa nama tag buat input berupa gambar ya?",
+    "jawaban": "Tag <image> dipakai untuk input berupa gambar. Ini contohnya:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Contoh simpel input berupa gambar dong!",
+    "jawaban": "Cara umum untuk input berupa gambar bisa kamu lihat di bawah ini:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Apa gunanya tag image dalam HTML?",
+    "jawaban": "Tenang, bikin input berupa gambar itu gampang kok. Coba lihat contoh ini:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Baru belajar nih, input berupa gambar gimana bikinnya?",
+    "jawaban": "Kalau kamu baru belajar, ini cara dasarnya:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Ada gak cara cepat untuk input berupa gambar?",
+    "jawaban": "Langsung aja, ini contoh kodenya:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Kalau mau input berupa gambar, mulai dari mana?",
+    "jawaban": "Tag ini memang cocok untuk input berupa gambar, berikut contohnya:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Input berupa gambar itu susah gak sih?",
+    "jawaban": "Biasanya orang pakai struktur ini untuk input berupa gambar:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "HTML bisa dipakai buat input berupa gambar gak?",
+    "jawaban": "Ini dasar banget, kamu bisa pakai kode berikut:",
+    "kode": "<input type=\"image\" src=\"submit.png\" alt=\"Submit\">"
+  },
+  {
+    "pertanyaan": "Bagaimana cara membuat form login sederhana dengan HTML?",
+    "jawaban": "Form login sederhana bisa dibuat menggunakan tag <form> dengan input untuk username dan password.",
+    "kode": "<form action=\"login.php\" method=\"post\">\n  <label for=\"username\">Username:</label>\n  <input type=\"text\" id=\"username\" name=\"username\"><br>\n  <label for=\"password\">Password:</label>\n  <input type=\"password\" id=\"password\" name=\"password\"><br>\n  <input type=\"submit\" value=\"Login\">\n</form>"
+  },
+  {
+    "pertanyaan": "Gimana sih cara bikin form login pakai HTML doang?",
+    "jawaban": "Tenang, kamu cukup pakai tag form dan input aja. Nih contohnya:",
+    "kode": "<form>\n  <input type=\"text\" placeholder=\"Username\"><br>\n  <input type=\"password\" placeholder=\"Password\"><br>\n  <button type=\"submit\">Login</button>\n</form>"
+  },
+  {
+    "pertanyaan": "Apa perbedaan antara ordered list, unordered list, dan description list dalam HTML?",
+    "jawaban": "Ordered list menggunakan <ol>, unordered list <ul>, dan description list <dl>. Masing-masing punya fungsi berbeda.",
+    "kode": "<ol><li>Satu</li><li>Dua</li></ol>\n<ul><li>Kucing</li><li>Anjing</li></ul>\n<dl><dt>HTML</dt><dd>Bahasa markup untuk web</dd></dl>"
+  },
+  {
+    "pertanyaan": "Kalau mau bikin daftar yang ada nomornya gimana?",
+    "jawaban": "Pakai tag <ol>. Kalau yang titik-titik, pakai <ul>. Nih contoh lengkapnya:",
+    "kode": "<ol><li>Langkah 1</li><li>Langkah 2</li></ol>\n<ul><li>Item A</li><li>Item B</li></ul>"
+  },
+  {
+    "pertanyaan": "Bagaimana struktur dasar halaman web HTML?",
+    "jawaban": "Struktur dasar HTML terdiri dari tag <!DOCTYPE>, <html>, <head>, dan <body>.",
+    "kode": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Halaman Pertama Saya</title>\n</head>\n<body>\n  <h1>Selamat Datang</h1>\n  <p>Ini halaman web pertama saya.</p>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "Saya baru belajar nih, gimana sih bikin web paling dasar pakai HTML?",
+    "jawaban": "Kamu bisa mulai dari struktur ini. Simpan sebagai .html dan buka di browser ya!",
+    "kode": "<!DOCTYPE html>\n<html>\n<head>\n  <title>Website Saya</title>\n</head>\n<body>\n  <h2>Hello, Dunia!</h2>\n  <p>Belajar HTML itu asik.</p>\n</body>\n</html>"
+  },
+  {
+    "pertanyaan": "Apa itu HTML?",
+    "jawaban": "HTML adalah singkatan dari HyperText Markup Language, yaitu bahasa markah standar untuk membuat halaman web.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "HTML itu buat apa sih?",
+    "jawaban": "HTML dipakai untuk menyusun struktur halaman web, seperti paragraf, gambar, link, dan lainnya.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Dari mana asal HTML?",
+    "jawaban": "HTML pertama kali dibuat oleh Tim Berners-Lee pada tahun 1991 untuk keperluan berbagi dokumen melalui internet.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Kapan HTML pertama kali muncul?",
+    "jawaban": "HTML muncul pertama kali pada tahun 1991, dan sejak itu terus berkembang hingga sekarang.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Apa saja versi HTML yang pernah ada?",
+    "jawaban": "Versi HTML antara lain: HTML 1.0, 2.0, 3.2, 4.01, XHTML, dan yang terbaru adalah HTML5.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Bedanya HTML sama HTML5 apa ya?",
+    "jawaban": "HTML5 adalah versi terbaru yang mendukung elemen semantik, audio, video, dan penyimpanan lokal.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "HTML itu bahasa pemrograman bukan sih?",
+    "jawaban": "HTML bukan bahasa pemrograman, tapi bahasa markah yang digunakan untuk menyusun struktur konten web.",
+    "kode": null
+  },
+  {
+    "pertanyaan": "Saya baru belajar, HTML itu kayak gimana sih?",
+    "jawaban": "HTML itu kayak kerangka atau rangka dari sebuah halaman web. Isinya bisa teks, gambar, dan tombol.",
+    "kode": null
+  }
+]
