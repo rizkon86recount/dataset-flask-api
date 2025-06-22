@@ -6,12 +6,24 @@
 # scipy>=1.4.1
 
 
+# Flask==2.3.3
+# numpy<2
+# sentence-transformers==4.1.0
+# Sastrawi==1.0.1
+# torch>=1.9.0,<2.1
+# scipy>=1.5.0,<2.0
+# scikit-learn>=0.24.0,<1.4
+# tqdm>=4.56.0
+# transformers>=4.11.3
+
+
 Flask==2.3.3
-numpy<2
-sentence-transformers==4.1.0
+numpy==1.26.4
+sentence-transformers==2.2.2
 Sastrawi==1.0.1
-torch>=1.9.0,<2.1
-scipy>=1.5.0,<2.0
-scikit-learn>=0.24.0,<1.4
-tqdm>=4.56.0
-transformers>=4.11.3
+torch==2.1.2
+scipy==1.10.1
+scikit-learn==1.3.2
+tqdm==4.66.2
+transformers==4.31.0
+
